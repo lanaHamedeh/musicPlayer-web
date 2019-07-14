@@ -1,14 +1,14 @@
-import React from 'react';
+import React,{component} from 'react';
+import Library from './Library';
 import './App.css';
-import Artist from "./Artist";
-import Library from "./Library";
 
-function App() {
-  return (
-    <div className="App">
-      <Library />
-    </div>
-  );
-}
 
-export default App;
+
+const App= ()=> (
+
+        <div>
+           <Library/>
+        </div>
+
+  )
+export default App ;

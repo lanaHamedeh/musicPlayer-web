@@ -11,21 +11,35 @@
     "apollo-client": "^2.6.3",
     "apollo-link-http": "^1.5.15",
     "axios": "^0.19.0",
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "chromedriver": "^75.1.0",
+    "geckodriver": "^1.16.2",
     "gql-tag": "^1.0.1",
     "graphql": "^14.4.2",
     "graphql-tag": "^2.10.1",
+    "install": "^0.13.0",
+    "jsdom": "^15.1.1",
+    "node": "^12.7.0",
+    "npm": "^6.10.1",
     "react": "^16.8.6",
     "react-apollo": "^2.5.8",
     "react-dom": "^16.8.6",
     "react-newline-to-break": "^1.0.6",
     "react-scripts": "3.0.1",
-    "styled-components": "^4.3.2"
+    "selenium-server": "^3.141.59",
+    "selenium-standalone": "^6.16.0",
+    "selenium-webdriver": "^4.0.0-alpha.4",
+    "styled-components": "^4.3.2",
+    "webdriver-manager": "^12.1.5"
   },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "test": " react-scripts test",
+    "eject": "react-scripts eject",
+    "s-test": "mocha test",
+    "webdriver-manager-update": "./node_modules/protractor/bin/webdriver-manager update"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -41,5 +55,15 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "coffeescript": "^2.4.1",
+    "gulp": "^4.0.2",
+    "jasmine": "^3.4.0",
+    "jasmine-spec-reporter": "^4.2.1",
+    "mocha": "^6.2.0",
+    "nightwatch": "^1.1.13",
+    "protractor": "^5.4.2",
+    "selenium-server-standalone-jar": "^3.141.5"
   }
 }

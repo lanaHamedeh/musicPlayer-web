@@ -2,15 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="849da5ce-3364-417f-a8e9-1b2c41b00f07" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/NavBar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SongData.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Text.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/s-test.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Library.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Library.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SongData.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/SongData.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,98 +33,44 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Library.js">
+        <entry file="file://$PROJECT_DIR$/test/s-test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="33" column="46" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="46" />
-              <folding>
-                <element signature="e#0#25#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="2268">
+              <caret line="108" selection-start-line="107" selection-end-line="108" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/App.js">
+        <entry file="file://$PROJECT_DIR$/node_modules/protractor/bin/test/conf.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="210">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/NavBar.js">
+        <entry file="file://$PROJECT_DIR$/node_modules/protractor/bin/test/test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="6279">
+              <caret line="299" column="4" selection-start-line="299" selection-start-column="4" selection-end-line="299" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Songs.ico">
-          <provider selected="true" editor-type-id="images" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SongData.js">
+        <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="38" column="62" selection-start-line="38" selection-start-column="62" selection-end-line="38" selection-end-column="62" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="861">
+              <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Text.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Artist.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/index.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="663">
-              <caret line="39" column="12" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/index.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/node_modules/protractor/bin/test/debug.log">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -134,8 +78,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="JavaScript File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -145,7 +89,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/Courses.py" />
         <option value="$PROJECT_DIR$/src/index.js" />
         <option value="$PROJECT_DIR$/src/navBar.py" />
@@ -155,16 +98,40 @@
         <option value="$PROJECT_DIR$/src/Test.js" />
         <option value="$PROJECT_DIR$/src/Text.js" />
         <option value="$PROJECT_DIR$/src/Library.js" />
-        <option value="$PROJECT_DIR$/src/SongData.js" />
-        <option value="$PROJECT_DIR$/src/App.js" />
         <option value="$PROJECT_DIR$/src/NavBar.js" />
+        <option value="$PROJECT_DIR$/src/App.test.js" />
+        <option value="$PROJECT_DIR$/src/test/test.js" />
+        <option value="$PROJECT_DIR$/src/SongData.js" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/test/test.js" />
+        <option value="$PROJECT_DIR$/src/test.js" />
+        <option value="$PROJECT_DIR$/s-test.js" />
+        <option value="$PROJECT_DIR$/test/l-test.js" />
+        <option value="$PROJECT_DIR$/src/App.js" />
+        <option value="$PROJECT_DIR$/node_modules/jasmine/package.json" />
+        <option value="$PROJECT_DIR$/spec/support/jasmine.json" />
+        <option value="$PROJECT_DIR$/protractor.conf.js" />
+        <option value="$PROJECT_DIR$/node_modules/protractor/bin/protractor t/protractor.conf.js" />
+        <option value="$PROJECT_DIR$/spec/s-test.js" />
+        <option value="$PROJECT_DIR$/spec/test.js" />
+        <option value="$PROJECT_DIR$/spec/jasmine_examples/PlayerSpec.js" />
+        <option value="$PROJECT_DIR$/spec/helpers/jasmine_examples/SpecHelper.js" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/node_modules/protractor/bin/protractor.conf.js" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/node_modules/protractor/built/configParser.js" />
+        <option value="$PROJECT_DIR$/test/s-test.js" />
+        <option value="$PROJECT_DIR$/node_modules/protractor/bin/conf.js" />
+        <option value="$PROJECT_DIR$/node_modules/protractor/bin/test.js" />
+        <option value="$PROJECT_DIR$/node_modules/protractor/bin/test/conf.js" />
+        <option value="$PROJECT_DIR$/node_modules/protractor/bin/test/test.js" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="313" />
-    <option name="y" value="43" />
-    <option name="width" value="698" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="779" />
     <option name="height" value="693" />
   </component>
   <component name="ProjectView">
@@ -172,7 +139,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -183,31 +149,57 @@
             <path>
               <item name="musicPlayer-web" type="b2602c69:ProjectViewProjectNode" />
               <item name="musicPlayer-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="musicPlayer-web" type="b2602c69:ProjectViewProjectNode" />
               <item name="musicPlayer-web" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="fonts" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="protractor" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="musicPlayer-web" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="musicPlayer-web" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="protractor" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="musicPlayer-web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="musicPlayer-web" type="462c0819:PsiDirectoryNode" />
+              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
+              <item name="protractor" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="musicPlayer-web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="musicPlayer-web" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="editor.config.ad.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../musicPlayer_api" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Lana\Desktop\musicPlayer-web\node_modules\protractor\bin\test" />
+      <recent name="C:\Users\Lana\Desktop\musicPlayer-web\node_modules\protractor\bin" />
+      <recent name="C:\Users\Lana\Desktop\musicPlayer-web\test" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -244,17 +236,149 @@
       <workItem from="1563218850173" duration="28129000" />
       <workItem from="1563349580339" duration="6444000" />
       <workItem from="1563356373394" duration="16990000" />
-      <workItem from="1563464883974" duration="940000" />
+      <workItem from="1563464883974" duration="2219000" />
+      <workItem from="1563697186471" duration="105000" />
+      <workItem from="1563710803238" duration="6463000" />
+      <workItem from="1563720843759" duration="22000" />
+      <workItem from="1563783160943" duration="14567000" />
+      <workItem from="1563830272098" duration="1710000" />
+      <workItem from="1563832059124" duration="1968000" />
+      <workItem from="1563834078691" duration="1776000" />
+      <workItem from="1563835899022" duration="1595000" />
+      <workItem from="1563869944827" duration="1943000" />
+      <workItem from="1563872038516" duration="1796000" />
+      <workItem from="1563873863149" duration="1968000" />
+      <workItem from="1563875920024" duration="1069000" />
+      <workItem from="1563878698504" duration="1851000" />
+      <workItem from="1563884362176" duration="1532000" />
+      <workItem from="1563886388170" duration="824000" />
+      <workItem from="1563888892183" duration="1447000" />
+      <workItem from="1563955048388" duration="1290000" />
+      <workItem from="1563956994499" duration="1293000" />
+      <workItem from="1563958933191" duration="1920000" />
+      <workItem from="1563960896056" duration="1786000" />
+      <workItem from="1563963155952" duration="1180000" />
+      <workItem from="1563968188558" duration="1787000" />
+      <workItem from="1563970027414" duration="1783000" />
+      <workItem from="1563971845962" duration="1786000" />
+      <workItem from="1563973660983" duration="1627000" />
+      <workItem from="1563975985559" duration="1472000" />
+      <workItem from="1564045880099" duration="598000" />
+      <workItem from="1564055222825" duration="1268000" />
+      <workItem from="1564057570845" duration="1948000" />
+      <workItem from="1564061785876" duration="1784000" />
+      <workItem from="1564063734263" duration="1845000" />
+      <workItem from="1564065608778" duration="1004000" />
+      <workItem from="1564167034575" duration="1136000" />
+      <workItem from="1564169149876" duration="1412000" />
+      <workItem from="1564212171129" duration="232000" />
+      <workItem from="1564231651770" duration="1775000" />
+      <workItem from="1564233459399" duration="1489000" />
+      <workItem from="1564235756812" duration="636000" />
+      <workItem from="1564296740571" duration="1629000" />
+      <workItem from="1564298529260" duration="1790000" />
+      <workItem from="1564300435313" duration="1785000" />
+      <workItem from="1564302256139" duration="1530000" />
+      <workItem from="1564304496080" duration="1836000" />
+      <workItem from="1564306370019" duration="1559000" />
+      <workItem from="1564308206947" duration="1655000" />
+      <workItem from="1564310111381" duration="1582000" />
+      <workItem from="1564314496080" duration="1784000" />
+      <workItem from="1564316314342" duration="1882000" />
+      <workItem from="1564318255861" duration="1672000" />
+      <workItem from="1564320113081" duration="1357000" />
+      <workItem from="1564321947581" duration="1787000" />
+      <workItem from="1564323766352" duration="1129000" />
+      <workItem from="1564388564670" duration="1028000" />
+      <workItem from="1564390817915" duration="1788000" />
+      <workItem from="1564392638637" duration="1065000" />
+      <workItem from="1564394489775" duration="1805000" />
+      <workItem from="1564396382723" duration="1085000" />
+      <workItem from="1564399411386" duration="1052000" />
+      <workItem from="1564401275166" duration="764000" />
+      <workItem from="1564403099161" duration="1656000" />
+      <workItem from="1564470609260" duration="1569000" />
+      <workItem from="1564472420199" duration="1779000" />
+      <workItem from="1564474284374" duration="1854000" />
+      <workItem from="1564476171772" duration="2192000" />
+      <workItem from="1564478856244" duration="1788000" />
+      <workItem from="1564480706766" duration="1493000" />
+      <workItem from="1564482539666" duration="616000" />
+      <workItem from="1564484774672" duration="1827000" />
+      <workItem from="1564486660992" duration="1880000" />
+      <workItem from="1564488733438" duration="1694000" />
+      <workItem from="1564490602197" duration="1650000" />
+      <workItem from="1564492435969" duration="886000" />
+      <workItem from="1564556098165" duration="650000" />
+      <workItem from="1564561927368" duration="1853000" />
+      <workItem from="1564564535093" duration="1795000" />
+      <workItem from="1564566364620" duration="1589000" />
+      <workItem from="1564568761730" duration="1308000" />
+      <workItem from="1564572306355" duration="665000" />
+      <workItem from="1564574861819" duration="1417000" />
+      <workItem from="1564579612777" duration="150000" />
+      <workItem from="1564643100696" duration="900000" />
+      <workItem from="1564645060038" duration="1621000" />
+      <workItem from="1564646892484" duration="1560000" />
+      <workItem from="1564649529495" duration="1787000" />
+      <workItem from="1564651347656" duration="1870000" />
+      <workItem from="1564655068816" duration="1790000" />
+      <workItem from="1564656891127" duration="1950000" />
+      <workItem from="1564660212012" duration="1899000" />
+      <workItem from="1564662173443" duration="1412000" />
+      <workItem from="1564664017343" duration="1830000" />
+      <workItem from="1564665883205" duration="253000" />
+      <workItem from="1564904443767" duration="936000" />
+      <workItem from="1564932861162" duration="525000" />
+      <workItem from="1564989360645" duration="1702000" />
+      <workItem from="1564991773344" duration="1827000" />
+      <workItem from="1564993639631" duration="1480000" />
+      <workItem from="1564995473214" duration="1357000" />
+      <workItem from="1564997298458" duration="1049000" />
+      <workItem from="1564999120353" duration="1841000" />
+      <workItem from="1565002030959" duration="1794000" />
+      <workItem from="1565003910503" duration="1570000" />
+      <workItem from="1565007695540" duration="1778000" />
+      <workItem from="1565011888046" duration="814000" />
+      <workItem from="1565079785363" duration="600000" />
+      <workItem from="1565081658225" duration="1678000" />
+      <workItem from="1565083491539" duration="1856000" />
+      <workItem from="1565085626244" duration="1297000" />
+      <workItem from="1565087810859" duration="693000" />
+      <workItem from="1565091731666" duration="1786000" />
+      <workItem from="1565093579960" duration="1787000" />
+      <workItem from="1565095435358" duration="1762000" />
+      <workItem from="1565097259961" duration="1775000" />
+      <workItem from="1565099362355" duration="1315000" />
+      <workItem from="1565175429499" duration="1085000" />
+      <workItem from="1565177292956" duration="1790000" />
+      <workItem from="1565179263391" duration="1725000" />
+      <workItem from="1565181547647" duration="1783000" />
+      <workItem from="1565247082745" duration="963000" />
+      <workItem from="1565249042259" duration="1349000" />
+      <workItem from="1565250984572" duration="1847000" />
+      <workItem from="1565252863010" duration="1751000" />
+      <workItem from="1565254889843" duration="1986000" />
+      <workItem from="1565257455296" duration="721000" />
+      <workItem from="1565259376073" duration="280000" />
+      <workItem from="1565272954830" duration="725000" />
+      <workItem from="1565860207967" duration="7000" />
+      <workItem from="1565860253190" duration="696000" />
+      <workItem from="1565872077398" duration="2090000" />
+      <workItem from="1565875578003" duration="1316000" />
+      <workItem from="1565878599997" duration="1992000" />
+      <workItem from="1565880942248" duration="446000" />
+      <workItem from="1566025630465" duration="437000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="112485000" />
+    <option name="totallyTimeSpent" value="318409000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21709532" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22919819" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -268,46 +392,19 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.4319728" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.8435374" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" weight="0.32980332" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32980332" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3290469" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external/react.d.ts">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="292" column="8" selection-start-line="292" selection-start-column="8" selection-end-line="292" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/serviceWorker.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Courses.py" />
-    <entry file="file://$PROJECT_DIR$/src/App.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/../background.jpg" />
     <entry file="file://$PROJECT_DIR$/src/navBar.py" />
     <entry file="file://$PROJECT_DIR$/src/Album.js">
@@ -324,9 +421,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/background.jpg">
       <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/hitIt.png">
       <provider selected="true" editor-type-id="images" />
@@ -349,7 +443,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/D.js" />
     <entry file="file://$PROJECT_DIR$/src/Data.js" />
-    <entry file="file://$PROJECT_DIR$/src/Test.js" />
     <entry file="file://$PROJECT_DIR$/src/Library.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
@@ -360,23 +453,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/App.js">
+    <entry file="file://$PROJECT_DIR$/src/App.test.js" />
+    <entry file="file://$PROJECT_DIR$/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        <state relative-caret-position="51">
+          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/test.js" />
+    <entry file="file://$PROJECT_DIR$/src/NavBar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/test/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/test/test.js" />
+    <entry file="file://$PROJECT_DIR$/src/test.js" />
     <entry file="file://$PROJECT_DIR$/src/Songs.ico">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/test/l-test.js" />
     <entry file="file://$PROJECT_DIR$/src/SongData.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="38" column="62" selection-start-line="38" selection-start-column="62" selection-end-line="38" selection-end-column="62" />
+        <state relative-caret-position="1088">
+          <caret line="72" column="44" selection-start-line="72" selection-start-column="44" selection-end-line="72" selection-end-column="44" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
@@ -405,25 +511,132 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="39" column="12" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
+        <state relative-caret-position="765">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.js">
+    <entry file="file://$PROJECT_DIR$/protractor.conf.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/protractor/bin/protractor t/protractor.conf.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/protractor/bin/protractor">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/jasmine/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="20" selection-start-line="3" selection-start-column="20" selection-end-line="3" selection-end-column="20" />
+        <state relative-caret-position="1003">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/NavBar.js">
+    <entry file="file://$PROJECT_DIR$/src/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        <state relative-caret-position="289">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="e#0#39#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/s-test.js" />
+    <entry file="file://$PROJECT_DIR$/spec/test.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/protractor/bin/protractor.conf.js" />
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/helpers/jasmine_examples/SpecHelper.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/support/jasmine.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/jasmine_examples/PlayerSpec.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="86" column="3" selection-end-line="86" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package-lock.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="278" selection-start-line="278" selection-end-line="278" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/protractor/built/configParser.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="139" column="26" selection-start-line="139" selection-start-column="26" selection-end-line="139" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/protractor/bin/conf.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/protractor/bin/test.js" />
+    <entry file="file://$PROJECT_DIR$/node_modules/protractor/node_modules/q/q.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11655">
+          <caret line="555" selection-start-line="555" selection-end-line="555" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/mocha/lib/mocha.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6993">
+          <caret line="333" selection-start-line="333" selection-end-line="333" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/s-test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2268">
+          <caret line="108" selection-start-line="107" selection-end-line="108" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="861">
+          <caret line="41" column="4" selection-start-line="41" selection-start-column="4" selection-end-line="41" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/protractor/bin/test/conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/protractor/bin/test/debug.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/protractor/bin/test/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6279">
+          <caret line="299" column="4" selection-start-line="299" selection-start-column="4" selection-end-line="299" selection-end-column="4" />
         </state>
       </provider>
     </entry>

@@ -22,7 +22,6 @@ const App = () => (
 
     <div style={bgStyles}>
 
-
         <NavBar/>
         <div style={{display: 'flex'}}>
             <Text/>

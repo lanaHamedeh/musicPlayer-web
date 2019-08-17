@@ -70,7 +70,7 @@ class SongData extends Component {
                                     "width": 400,
                                     background:'#000',
                                 }}>
-                                    <Button style={{ marginLeft :150 ,background:'#C11B17',color:'white'}} onClick={this.getData}> Get Songs </Button>
+                                    <Button  style={{ marginLeft :150 ,background:'#C11B17',color:'white'}} onClick={this.getData}> Get Songs </Button>
 
 
                                     {data.allSongs.map((song) => {

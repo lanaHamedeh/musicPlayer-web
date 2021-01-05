@@ -10,7 +10,7 @@
     "apollo-cache-inmemory": "^1.6.2",
     "apollo-client": "^2.6.3",
     "apollo-link-http": "^1.5.15",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "chai": "^4.2.0",
     "chai-as-promised": "^7.1.1",
     "chromedriver": "^75.1.0",

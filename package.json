@@ -26,7 +26,7 @@
     "react-apollo": "^2.5.8",
     "react-dom": "^16.8.6",
     "react-newline-to-break": "^1.0.6",
-    "react-scripts": "3.0.1",
+    "react-scripts": "5.0.1",
     "selenium-server": "^3.141.59",
     "selenium-standalone": "^6.16.0",
     "selenium-webdriver": "^4.0.0-alpha.4",

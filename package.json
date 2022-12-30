@@ -61,7 +61,7 @@
     "gulp": "^4.0.2",
     "jasmine": "^3.4.0",
     "jasmine-spec-reporter": "^4.2.1",
-    "mocha": "^6.2.0",
+    "mocha": "^10.2.0",
     "nightwatch": "^1.1.13",
     "protractor": "^5.4.2",
     "selenium-server-standalone-jar": "^3.141.5"
